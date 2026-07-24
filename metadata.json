@@ -1,0 +1,6 @@
+{
+  "name": "তিতাস ফ্যাশন",
+  "description": "Titas Fashion - Single Vendor E-commerce store with full Admin Panel and Customer Shopping Experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
